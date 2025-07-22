@@ -8,7 +8,6 @@ outputs/
 *.pkl
 .DS_Store
 *.pth
-*.png
 .swp
 
 # Byte-compiled / optimized / DLL files
